@@ -40,8 +40,8 @@ The final model used for the API was the **Random Forest Classifier** model whic
 
 ### Streamlit App Demo
 
-![Demo[streamlit-streamlit_app-2024-07-19-03-07-80.webm](https://github.com/user-attachments/assets/0b3b7a5d-d6f6-42fd-836f-12ed2db570c0)
-]()
+![streamlit-streamlit_app-2024-07-19-03-07-80.webm](https://github.com/user-attachments/assets/0b3b7a5d-d6f6-42fd-836f-12ed2db570c0)
+]
 
 ## How to run API and Streamlit App on Google Colab:
 
